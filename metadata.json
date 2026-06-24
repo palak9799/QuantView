@@ -1,0 +1,11 @@
+{
+  "name": "Remix: Remix 1: QuantView",
+  "description": "QuantView is a complete AI-powered interview evaluation product. It acts as a personal AI Interview Coach that conducts highly realistic, natural voice mock interviews (HR, Technical, Behavioral, Aptitude) using real-time audio analysis, speech transcript parsing, and camera visualization overlays to provide immediate score metrics and personalized mentoring reports.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
